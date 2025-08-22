@@ -294,8 +294,8 @@ PRODUCT_PACKAGES += \
     libdataitems \
     libdisp-aba \
     libdisplayqos \
+    libdisplayskuutils \
     libdpmqmihal \
-    libdpps \
     libdrmfs \
     libdrmtime \
     libdsi_netctrl \
@@ -370,7 +370,6 @@ PRODUCT_PACKAGES += \
     libril-qc-radioconfig \
     librilqmiservices \
     librpmb \
-    libsdedrm \
     libsdm-color \
     libsdm-colormgr-algo \
     libsdm-diag \
@@ -583,7 +582,6 @@ PRODUCT_PACKAGES += \
     pm-service \
     port-bridge \
     power_off_alarm \
-    ppd \
     qrtr-cfg \
     qrtr-lookup \
     qrtr-ns \
