@@ -156,7 +156,6 @@ PRODUCT_PACKAGES += \
     libCB \
     libOpenCL \
     libVkLayer_q3dtools \
-    libadreno_app_profiles \
     libadreno_utils \
     libadsp_default_listener \
     libadsprpc \
